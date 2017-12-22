@@ -1,0 +1,19 @@
+{
+  "name": "bobozan",
+  "version": "1.0.0",
+  "description": "game bobozan",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gutwql/bobozan.git"
+  },
+  "author": "webwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gutwql/bobozan/issues"
+  },
+  "homepage": "https://github.com/Gutwql/bobozan#readme"
+}
