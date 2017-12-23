@@ -1,7 +1,6 @@
 <template>
     <div>
-        <h2>LAVAS</h2>
-        <h4>[ˈlɑ:vəz]</h4>
+        <h2>波波攒</h2>
     </div>
 </template>
 
@@ -49,10 +48,10 @@ export default {
 $text-color := rgba($material-theme.text-color, $material-theme.primary-text-percent)
 
 h2
-    margin-top 50%
+    /* margin-top 50% */
     font-size 46px
     font-weight 500
 
-h2, h4
+h2, h5
     color $text-color
 </style>
