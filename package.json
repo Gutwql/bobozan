@@ -1,8 +1,9 @@
 {
-  "name": "bobozan",
+  "name": "pwa-project",
   "version": "1.0.0",
-  "description": "game bobozan",
-  "main": "index.js",
+  "description": "这是一个 pwa 项目",
+  "author": "wql <770185288@qq.com>",
+  "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "lint": "fecs ./ --rule --type 'vue,js,css'",
@@ -73,15 +74,5 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gutwql/bobozan.git"
-  },
-  "author": "webwang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Gutwql/bobozan/issues"
-  },
-  "homepage": "https://github.com/Gutwql/bobozan#readme"
+  ]
 }
